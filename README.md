@@ -6,6 +6,9 @@ infrastructure** (KV cache, PD disaggregation, GPU Direct Storage, etc.).
 
 The original job description lives in [`JD.md`](./JD.md).
 
+**▶ Live interactive demos:** https://love3.github.io/ai-storage-prep/
+(KV-cache offload simulator + consistent-hashing store, running in your browser).
+
 ## What's inside
 
 | Area | Path | Description |
