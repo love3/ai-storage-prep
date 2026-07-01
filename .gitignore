@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# C build artifacts
+demos/async-io-bench/iobench
+*.o
+
+# scratch / generated (keep the example artifacts sweep_direct.png & results_direct.csv)
+/tmp/iobench.dat
+results.csv
+out.png
+
+# Node / Vue
+node_modules/
+web/dist/
+.DS_Store
+
+# editor
+.vscode/
+.idea/

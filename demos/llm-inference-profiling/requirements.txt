@@ -1,0 +1,3 @@
+# sizing.py and profile_ollama.py use ONLY the Python standard library.
+# matplotlib is optional, only for the --plot flag.
+matplotlib>=3.7,<4.0
